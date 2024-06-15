@@ -6,4 +6,3 @@ int main(){
     printf("Ya sirvio");
     system("pause");
 }
-
